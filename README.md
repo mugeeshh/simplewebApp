@@ -1,7 +1,7 @@
 # simplewebApp
 simple node js with docker 
 
-# build along with tag mugeesh
+#build along with tag mugeesh
 sudo docker build -t  mugeesh/simpleweb:latest .
 
 #Run the docker container <br/>
